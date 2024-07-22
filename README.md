@@ -13,3 +13,4 @@ Skim the `.gitignore` file. Note that we only commit the Assets, Packages and Pr
 * **Owen Hooper** - [themouthgod](https://github.com/owenhooper)
 * **James Little** - [Spasms](https://github.com/Spasms)
 * **Brian Purdy** - [RedWraithX](https://github.com/redwraithx)
+* **I know i missed one person but I can not remember your name or info so please reach out to me if you want me to add you
